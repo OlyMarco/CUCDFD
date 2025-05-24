@@ -124,7 +124,7 @@ nvidia-smi
 python -c "import torch; print(torch.version.cuda)"
 
 # 重新安装匹配的 PyTorch
-conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
+conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia
 ```
 
 #### 3. conda-unpack 命令不存在
