@@ -9,12 +9,12 @@
 | 🎵 **音频** | wav, mp3, m4a, pcm, flac | 50MB |
 | 📄 **文本** | txt, doc, docx, pdf | 10MB |
 
-## 🏭 环境要求度伪造检测平台
+## 🏭 深度伪造检测平台
 
-## � 核心特性
+## 🎯 核心特性
 
 - **🎬 视频检测** - DeepFake视频智能识别
-- **� 音频检测** - 语音合成和音频篡改检测  
+- **🎵 音频检测** - 语音合成和音频篡改检测  
 - **🖼️ 图像检测** - AI生成图像和篡改识别
 - **🔄 多模态分析** - 音视频联合鉴伪技术
 - **🌐 Web界面** - 桌面和移动端友好界面
@@ -23,7 +23,7 @@
 ## 🏗️ 系统架构
 
 ```
-🌐 Web前端 → � 分配器 → 🤖 AI检测服务群
+🌐 Web前端 → 🔄 分配器 → 🤖 AI检测服务群
     ↓           ↓           ↓
   用户界面     任务调度     深度学习推理
   文件上传     负载均衡     结果生成
@@ -37,14 +37,14 @@
 | 🖼️ **图像** | jpg, png, jpeg, tif, webp | 10MB |
 | 🎵 **音频** | wav, mp3, m4a, pcm, flac | 10MB |
 
-## � 环境要求
+## 💻 环境要求
 
 | 组件 | 最低配置 | 推荐配置 |
 |------|----------|----------|
 | 🖥️ **GPU** | NVIDIA ≥8GB | NVIDIA ≥16GB |
 | 💾 **内存** | 8GB RAM | 16GB+ RAM |
 | 💿 **存储** | 20GB | 50GB+ |
-| � **系统** | Ubuntu 22.04+ | LTS版本 |
+| 🐧 **系统** | Ubuntu 22.04+ | LTS版本 |
 
 ## ⚡ 快速启动
 
@@ -294,7 +294,7 @@ curl http://localhost:5000/simplecheck
 - 🌟 **GitHub**: [项目主页](https://github.com/cucdfd/cucdfd)
 - 🐛 **问题反馈**: [Issues](https://github.com/cucdfd/cucdfd/issues)
 - 📧 **邮件**: support@cucdfd.org
-- � **文档**: [在线文档](https://docs.cucdfd.org)
+- 📚 **文档**: [在线文档](https://docs.cucdfd.org)
 
 ---
 
